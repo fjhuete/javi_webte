@@ -3,7 +3,6 @@ title: "Mi Primer Post"
 date: 2024-09-30T12:21:28+02:00
 type: "post"
 tags: ["post", "blog"]
-draft: true
 ---
 
 # Bienvenida

@@ -3,7 +3,6 @@ title: "Estilos"
 date: 2024-09-30T12:26:49+02:00
 type: "post"
 tags: ["post", "blog"]
-draft: true
 ---
 
 En esta página se muestran algunos de los estilos que se usan en Javi Webte.
